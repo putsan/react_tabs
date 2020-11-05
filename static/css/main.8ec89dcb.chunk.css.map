@@ -1,1 +1,0 @@
-{"version":3,"sources":["ContentTabs.scss"],"names":[],"mappings":"AAAA,cACE,aAAc,CACd,gBAAiB,CAClB,UAGC,cAAe,CACf,YAAa,CAEb,eAAiB,CACjB,iBAAkB","file":"main.8ec89dcb.chunk.css","sourcesContent":[".js-container {\n  max-width: 50%;\n  margin: 5% auto 0;\n}\n\n.js-white {\n  margin: 0 -15px;\n  padding: 10px;\n\n  background: white;\n  border-radius: 5px;\n}\n"]}
